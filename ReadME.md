@@ -324,12 +324,7 @@ If you encounter issues:
 - **Multi-language Support**: Adding support for more languages to reach a wider audience.
 - **Product Database Expansion**: Integrating with multiple food databases for a more comprehensive product analysis.
 
----
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
 
