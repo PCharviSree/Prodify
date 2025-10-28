@@ -1,13 +1,11 @@
 
 ---
 
-![consumelogo.jpg](Resources%2Fconsumelogo.jpg)
-
-# ConsumeWise - Health & Product Analysis Whatsapp Bot
+# PRODIFY - Health & Product Analysis Whatsapp Bot
 
 ### Tagline : Instant Health Insights, Just A Text Away!
 
-**ConsumeWise** is a WhatsApp bot designed to help users analyze food products based on their specific health needs. Users can create personalized health profiles (e.g., allergies, diabetes), search for products by barcode, and receive comprehensive health analyses, including allergy alerts, nutritional insights, food processing levels, and misleading claim detection. Additionally, the bot offers better food recommendations based on health profiles, guiding users toward healthier choices.
+**PRODIFY** is a WhatsApp bot designed to help users analyze food products based on their specific health needs. Users can create personalized health profiles (e.g., allergies, diabetes), search for products by barcode, and receive comprehensive health analyses, including allergy alerts, nutritional insights, food processing levels, and misleading claim detection. Additionally, the bot offers better food recommendations based on health profiles, guiding users toward healthier choices.
 
 ---
 
@@ -338,3 +336,4 @@ If you encounter issues:
 This project is licensed under the MIT License.
 
 ---
+
