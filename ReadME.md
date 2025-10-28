@@ -73,11 +73,6 @@ Before you start, ensure you have the following:
 
 ![Flowchart of GENAI Final.drawio.png](Resources%2FFlowchart%20of%20GENAI%20Final.drawio.png)
 
----
-
-## Setup Video
-
-https://drive.google.com/file/d/1bRmr0bUXcfKmH3zbXZi3FqNnjOy-cR8-/view?usp=sharing
 
 ---
 ## Project Setup
@@ -87,7 +82,7 @@ https://drive.google.com/file/d/1bRmr0bUXcfKmH3zbXZi3FqNnjOy-cR8-/view?usp=shari
 Start by cloning the project repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/ConsumeWise.git
+git clone https://github.com/PCharviSree/Prodify.git
 ```
 
 Once cloned, open the project in **PyCharm**:
@@ -336,4 +331,5 @@ If you encounter issues:
 This project is licensed under the MIT License.
 
 ---
+
 
